@@ -8,7 +8,7 @@ const Footer = () => {
       column: "col-lg-2 col-md-3 col-sm-6 mb-30",
       items: [
         { label: "Home", href: "/" },
-        { label: "Contact us", href: "/" },
+        { label: "Contact us", href: "https://forms.gle/cAqrWbd3WTTQaRhr9" },
       ],
     },
   ];
