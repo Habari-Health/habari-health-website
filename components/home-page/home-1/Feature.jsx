@@ -19,7 +19,7 @@ const Feature = () => {
       background: "#FBF1FF",
       title: (
         <>
-          Talk to a doctor <br /> Recieve your treatment.
+          Talk to a doctor <br />and recieve your treatment.
         </>
       ),
       width: "144",
