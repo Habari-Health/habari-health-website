@@ -2,7 +2,7 @@ const accordionItems = [
   {
     id: 1,
     icon: "/images/icon/icon_106.svg",
-    title: "Convenience and Cost-Efficient.",
+    title: "Convenient and Cost-Efficient.",
     content:
       "No need to travel or wait in a doctor's office. Consult with medical professionals from the comfort of home or wherever you are.",
   },
