@@ -6,7 +6,7 @@ const Feature = () => {
       background: "#fffee7",
       title: (
         <>
-          Describe symptomps online.
+          Describe symptoms online.
         </>
       ),
       description: "Choose a list of symptoms from the app",
